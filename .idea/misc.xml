@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Smriti/Presentz/app/src/main/res/drawable/ic_man.xml" value="0.132" />
+        <entry key="..\:/Users/Smriti/Presentz/app/src/main/res/drawable/ic_profile_bar.xml" value="0.132" />
+        <entry key="..\:/Users/Smriti/Presentz/app/src/main/res/drawable/ic_profile_bar___copy.xml" value="0.132" />
+        <entry key="..\:/Users/Smriti/Presentz/app/src/main/res/drawable/shape_button_rounded.xml" value="0.132" />
+        <entry key="..\:/Users/Smriti/Presentz/app/src/main/res/drawable/white_border_shape_button_rounded.xml" value="0.132" />
+        <entry key="..\:/Users/Smriti/Presentz/app/src/main/res/layout/activity_base.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/Smriti/Presentz/app/src/main/res/layout/activity_category.xml" value="0.1" />
+        <entry key="..\:/Users/Smriti/Presentz/app/src/main/res/layout/activity_choose_msg_template.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/Smriti/Presentz/app/src/main/res/layout/activity_edit_template.xml" value="0.1" />
+        <entry key="..\:/Users/Smriti/Presentz/app/src/main/res/layout/activity_final_checkout.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/Smriti/Presentz/app/src/main/res/layout/activity_intro.xml" value="0.22" />
+        <entry key="..\:/Users/Smriti/Presentz/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Smriti/Presentz/app/src/main/res/layout/activity_product_detail.xml" value="0.22" />
+        <entry key="..\:/Users/Smriti/Presentz/app/src/main/res/layout/activity_sign_in.xml" value="0.25" />
+        <entry key="..\:/Users/Smriti/Presentz/app/src/main/res/layout/activity_sign_up.xml" value="0.18" />
+        <entry key="..\:/Users/Smriti/Presentz/app/src/main/res/layout/activity_splash.xml" value="0.18" />
+        <entry key="..\:/Users/Smriti/Presentz/app/src/main/res/layout/activity_surprise_details.xml" value="0.2" />
+        <entry key="..\:/Users/Smriti/Presentz/app/src/main/res/layout/dialog_progress.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/Smriti/Presentz/app/src/main/res/layout/fragment_account.xml" value="0.18" />
+        <entry key="..\:/Users/Smriti/Presentz/app/src/main/res/layout/fragment_cart.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/Smriti/Presentz/app/src/main/res/layout/fragment_gift.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/Smriti/Presentz/app/src/main/res/layout/fragment_home.xml" value="0.18" />
+        <entry key="..\:/Users/Smriti/Presentz/app/src/main/res/layout/gift_list.xml" value="0.18432971014492755" />
+        <entry key="..\:/Users/Smriti/Presentz/app/src/main/res/layout/item_category_layout.xml" value="0.22" />
+        <entry key="..\:/Users/Smriti/Presentz/app/src/main/res/layout/item_category_product_layout.xml" value="0.22" />
+        <entry key="..\:/Users/Smriti/Presentz/app/src/main/res/layout/item_product.xml" value="0.1" />
+        <entry key="..\:/Users/Smriti/Presentz/app/src/main/res/layout/layout_cart_item.xml" value="0.18" />
+        <entry key="..\:/Users/Smriti/Presentz/app/src/main/res/layout/single_template.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/Smriti/Presentz/app/src/main/res/menu/bottom_nav_menu.xml" value="0.18645833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11 (18)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:id="@+id/frameLayout"
+    tools:context=".activities.editTemplateActivity"
+   >
+   <androidx.constraintlayout.widget.ConstraintLayout
+       android:layout_width="match_parent"
+       android:layout_margin="30dp"
+       android:layout_height="wrap_content"
+       app:layout_constraintEnd_toEndOf="parent"
+       android:id="@+id/cardView"
+       app:layout_constraintTop_toTopOf="parent"
+       app:layout_constraintStart_toStartOf="parent"
+       app:layout_constraintBottom_toTopOf="@id/saveBtn"
+       >
+       <ImageView
+           android:id="@+id/chosenImg"
+           android:layout_width="match_parent"
+           android:layout_gravity="center"
+           android:layout_height="wrap_content"
+           android:layout_marginBottom="10dp"
+           android:src="@drawable/template3"
+           app:layout_constraintTop_toTopOf="parent"
+           app:layout_constraintStart_toStartOf="parent"
+           app:layout_constraintEnd_toEndOf="parent"
+           />
+
+       <EditText
+           android:id="@+id/editText"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_gravity="top"
+           android:layout_marginTop="10dp"
+           android:elevation="10dp"
+           android:minWidth="150dp"
+           android:fontFamily="@font/lato_italic"
+           android:textColor="@color/white"
+           app:layout_constraintTop_toTopOf="parent"
+           app:layout_constraintStart_toStartOf="parent"
+           app:layout_constraintEnd_toEndOf="parent"
+           app:layout_constraintBottom_toBottomOf="@id/chosenImg"
+           android:textSize="15sp" />
+
+   </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/saveBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:layout_marginTop="10dp"
+        android:background="#121212"
+        android:text="Save"
+        android:textColor="@color/white"
+        android:textSize="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cardView" />
+
+    <ImageView
+        android:id="@+id/imageTemplate"
+        android:layout_width="match_parent"
+        android:layout_marginTop="30dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/saveBtn" />
+</androidx.constraintlayout.widget.ConstraintLayout>
