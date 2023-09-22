@@ -21,9 +21,11 @@
         </tr>
     </tbody>
 </table>
+<hr size="5" noshade="">
 <ul>
     <li><h5>Functionality:</h5>Engineered a feature-rich Android e-commerce application designed for gift delivery with personalized custom messages, date scheduling, and user accounts.</li>
     <li><h5>Authentication:</h5>Leveraged Firebase authentication to implement robust sign-in and signup functionalities, ensuring secure user access.</li>
     <li><h5>Data Management:</h5>Employed Firestore Database to efficiently store and manage extensive product catalogs and user shopping cart data.</li>
     <li><h5>Customization:</h5>Utilized Firestore's real-time snapshot capabilities to seamlessly capture, store, and retrieve user-generated custom messages, enhancing the app's dynamic personalization features.</li>
 </ul>
+<hr size="5" noshade="">
