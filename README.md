@@ -1,8 +1,8 @@
 # Presentz
 #           <h1 align="center"> Presentz</h1>
-<p align="center">This app can be used by user to surprise anyone with gift <br>
-on any special ocassion. It has message templates where custom messages can be added.<br>
-User can also select delivery date. <br></p>
+<p align="center">Developed an Android e-commerce app enabling personalized gift delivery with <br>
+    Firebase authentication, Firestore for efficient data management, and <br>
+    real-time snapshots for user-generated custom messages. <br></p>
 <hr size="5" noshade="">
 
 
@@ -21,3 +21,9 @@ User can also select delivery date. <br></p>
         </tr>
     </tbody>
 </table>
+<ul>
+    <li>Engineered a feature-rich Android e-commerce application designed for gift delivery with personalized custom messages, date scheduling, and user accounts.</li>
+    <li>Leveraged Firebase authentication to implement robust sign-in and signup functionalities, ensuring secure user access.</li>
+    <li>Employed Firestore Database to efficiently store and manage extensive product catalogs and user shopping cart data.</li>
+    <li>Utilized Firestore's real-time snapshot capabilities to seamlessly capture, store, and retrieve user-generated custom messages, enhancing the app's dynamic personalization features.</li>
+</ul>
